@@ -7,7 +7,7 @@ Traditional diagnosis requires extensive medical testing, which can be costly an
 This project demonstrates how **Exploratory Data Analysis (EDA)** and **Machine Learning (ML)** can be used to assess diabetes risk using readily available patient data.
 
 **Key Objective:**  
-Enable early detection and timely intervention to reduce healthcare costs and improve patient outcomes.
+Enable early detection and timely intervention to reduce healthcare costs and improve patient outcomes. 
 
 ---
 
