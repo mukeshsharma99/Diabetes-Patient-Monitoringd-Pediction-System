@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-**Diabetes is a chronic disease that can lead to severe complications if not detected early.**  
+**Diabetes is a chronic disease that can lead to severe complications if not detected early.**        
 Traditional diagnosis requires extensive medical testing, which can be costly and time-consuming.  
 This project demonstrates how **Exploratory Data Analysis (EDA)** and **Machine Learning (ML)** can be used to assess diabetes risk using readily available patient data.
 
