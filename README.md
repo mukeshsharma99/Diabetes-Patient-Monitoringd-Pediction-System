@@ -1,6 +1,6 @@
 # 🩺 Diabetes Patient Monitoring and Prediction System
 
-## 📌 Project Overview
+## 📌 Project Overview  
 
 **Diabetes is a chronic disease that can lead to severe complications if not detected early.**        
 Traditional diagnosis requires extensive medical testing, which can be costly and time-consuming.  
